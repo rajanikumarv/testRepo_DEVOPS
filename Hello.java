@@ -2,7 +2,7 @@ class Hello
 {
 	public static void main(String a[])
 	{
-		System.out.println("Hello and Welcome to Jenkins Demo from GIT Poll!");
+		System.out.println("Hello Jenkins and Welcome to this  demo for GIT Poll!");
 	}
 }
 
